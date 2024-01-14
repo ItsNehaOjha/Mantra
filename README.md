@@ -1,5 +1,5 @@
 # Ganesh Chaturthi Project
-
+https://itsnehaojha.github.io/Mantra/
 A simple web project to celebrate Ganesh Chaturthi with a festive greeting and a traditional mantra.
 
 ## Features
